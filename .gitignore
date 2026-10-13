@@ -1,0 +1,13 @@
+# artefatos gerados pela demo
+onprem/
+inventory.csv
+verify_report.csv
+mig_dash.log
+
+# python
+__pycache__/
+*.pyc
+
+# ambiente / segredos
+.env
+*.env
